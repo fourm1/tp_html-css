@@ -23,10 +23,10 @@
                 </div>
 
                 <div class="m-right">
-                    <a href="#" class="link">Home</a>
-                    <a href="#" class="link">Destinations</a>
-                    <a href="#" class="link">Deals</a>
-                    <a href="#" class="link">Contact</a>
+                    <a href="index.php" class="link-header">Home</a>
+                    <a href="#" class="link-header">Destinations</a>
+                    <a href="#" class="link-header">Deals</a>
+                    <a href="contact.php" class="link-header">Contact</a>
                 </div>
                     <div class="m-nav">
                         <span class="icon"></span>
