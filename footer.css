@@ -2,9 +2,17 @@
     display: flex;
     justify-content: center;
     background-color: blue;
-    max-width: 800px;
+    max-width: 1100px;
 }
 
 .top img {
     display: flex;
+    max-width: 50px;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.top p {
+    display: flex;
+    flex-direction: column;
 }
